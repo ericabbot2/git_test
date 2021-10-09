@@ -1,1 +1,1 @@
-This is Eric's first git project!
+This is Eric's first solo git project!
